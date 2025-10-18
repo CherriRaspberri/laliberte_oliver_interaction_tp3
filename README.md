@@ -9,7 +9,8 @@ Global :
 - Add difficulty increase notifier
 - Add more static obstacles (moving rock walls on the side?)
 - Add level 2 (scene change + player upgrade)
-- Add boss fight? 
+- Add boss fight?
+- Add new enemy?
 
 Fixes :
 - Fix player animations (left and right movement)
