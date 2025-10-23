@@ -3,8 +3,9 @@
 
 ## TO DO :
 Global :
-- Add screen shake
-- Add score tracker + points system
+- Add camera zooms X
+- Add screen shake X
+- Add score tracker + points system 
 - Add difficulty increase (augments after a certain amount of points is obtained)
 - Add difficulty increase notifier
 - Add more static obstacles (moving rock walls on the side?)
@@ -15,4 +16,3 @@ Global :
 Fixes :
 - Fix player animations (left and right movement)
 - Fix player hitbox
-- 
