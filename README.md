@@ -5,7 +5,7 @@
 Global :
 - Add camera zooms X
 - Add screen shake X
-- Add score tracker + points system 
+- Add score tracker + points system ... (score tracker does not reset on game restart) (score sound does not change for the smaller comets)
 - Add difficulty increase (augments after a certain amount of points is obtained)
 - Add difficulty increase notifier
 - Add more static obstacles (moving rock walls on the side?)
