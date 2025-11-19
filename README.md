@@ -15,5 +15,15 @@ Niveau shmup de base. Incrémentation de difficulté après chaque tranche de 10
 Difficulté augmentée comparé au 1er niveau.
 
 ### Niveau 3 :
-But : Survivre 1min.
+But : Survivre 1min.\
 Niveau de survie de base. Incrémentation de difficulté après chaque tranche de 15sec passée.
+
+## PLAYER
+### Attributs :
+Le joueur est muni d'un vaisseau pouvant naviguer de gauche à droite. Les assets du jeu donnent l'illusion que le vaisseau avance en continu.\
+Le joueur est aussi muni d'un canon laser. Le canon tire en ligne droite vers le haut.
+
+### Contrôles :
+A : bouger à gauche.\
+W : bouger à droite.\
+Spacebar : tirer un laser.
