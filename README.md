@@ -1,18 +1,19 @@
 # laliberte_oliver_interaction_tp3
 3e travail pour le cours d'interaction de 3e session en Techniques Multimédia à Montmorency.
 
-## TO DO :
-Global :
-- Add camera zooms X
-- Add screen shake X
-- Add score tracker + points system ... (score tracker does not reset on game restart) (score sound does not change for the smaller comets)
-- Add difficulty increase (augments after a certain amount of points is obtained)
-- Add difficulty increase notifier
-- Add more static obstacles (moving rock walls on the side?)
-- Add level 2 (scene change + player upgrade)
-- Add boss fight?
-- Add new enemy?
+## CONCEPT 
+Jeu de shmup pseudo-infini en vue top-down. Dépendant du niveau, il faut soit atteindre un certain score ou attendre la fin d'un timer.
 
-Fixes :
-- Fix player animations (left and right movement)
-- Fix player hitbox
+## NIVEAUX
+### Niveau 1 :
+But : Atteindre 3000pts.\
+Niveau tutoriel. Incrémentation de difficulté après chaque tranche de 1000pts amassés.
+
+### Niveau 2 :
+But : Atteindre 5000pts.\
+Niveau shmup de base. Incrémentation de difficulté après chaque tranche de 1000pts amassés.\
+Difficulté augmentée comparé au 1er niveau.
+
+### Niveau 3 :
+But : Survivre 1min.
+Niveau de survie de base. Incrémentation de difficulté après chaque tranche de 15sec passée.
