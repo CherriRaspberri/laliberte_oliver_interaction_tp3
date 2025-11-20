@@ -1,5 +1,6 @@
 # laliberte_oliver_interaction_tp3
-3e travail pour le cours d'interaction de 3e session en Techniques Multimédia à Montmorency.
+3e travail pour le cours d'interaction de 3e session en Techniques Multimédia à Montmorency.\
+Lien pour le jeu [ici](https://cherriraspberri.github.io/laliberte_oliver_interaction_tp3)
 
 ## CONCEPT 
 Jeu de shmup pseudo-infini en vue top-down. Dépendant du niveau, il faut soit atteindre un certain score ou attendre la fin d'un timer.
